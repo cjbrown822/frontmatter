@@ -20,9 +20,9 @@ in [Quarto documents](https://quarto.org/), [R Markdown
 documents](https://rmarkdown.rstudio.com/), static site generators,
 documentation systems, content management tools and even
 [Python](https://packaging.python.org/en/latest/specifications/inline-script-metadata/#inline-script-metadata)
-and [R scripts](https://bookdown.org/yihui/rmarkdown-cookbook/spin.html)
-where metadata is placed at the top of a document, separated from the
-main content by delimiter fences.
+and [R scripts](https://pkg.yihui.org/rmarkdown-cookbook/spin) where
+metadata is placed at the top of a document, separated from the main
+content by delimiter fences.
 
 ## Features
 

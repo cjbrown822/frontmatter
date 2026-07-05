@@ -1,4 +1,4 @@
-# frontmatter (development version)
+# frontmatter 0.3.0
 
 * `format_front_matter()` and `write_front_matter()` now infer the delimiter
   automatically when `delimiter = NULL` (the new default). If `x` was returned
